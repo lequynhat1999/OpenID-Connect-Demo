@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35327.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIDWebClient", "OpenIDWebClient\OpenIDWebClient.csproj", "{F319DD86-A766-4647-BA77-5596DC6BC3CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OpenIDWebServer", "OpenIDWebServer\OpenIDWebServer.csproj", "{951E460F-4BA2-4739-A0CA-9AB5AB54780E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F319DD86-A766-4647-BA77-5596DC6BC3CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F319DD86-A766-4647-BA77-5596DC6BC3CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F319DD86-A766-4647-BA77-5596DC6BC3CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F319DD86-A766-4647-BA77-5596DC6BC3CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{951E460F-4BA2-4739-A0CA-9AB5AB54780E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{951E460F-4BA2-4739-A0CA-9AB5AB54780E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{951E460F-4BA2-4739-A0CA-9AB5AB54780E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{951E460F-4BA2-4739-A0CA-9AB5AB54780E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7CA6ABE-9EDA-4782-8BE9-33E198E760F8}
+	EndGlobalSection
+EndGlobal

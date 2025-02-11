@@ -1,0 +1,7 @@
+{
+  "kty": "RSA",
+  "e": "AQAB",
+  "use": "sig",
+  "alg": "RS256",
+  "n": "kChHNU9sIW1YPzgxnxQV6S-SgRfjR9cW99Z2f-R8duyzLBLbmxrOFNZeEEvPvIVClq5TGIm8ptLup7BGOwotHAQQctFIzbbZpf5YAjGHjd8RCv8nFy8AWldUm-qDQS3QufN-sHl9d42W4TX2eKW2QVAc0yRhdxGSYIhjSRcfI228gzeVojVDydLgehy8FzRiJqvA5iiLuW2CjfxMoY3hgfS_MowMawAsiBiBfLBN8_kGIYocfQjk-rMxtTKhae6z3qZj7GsTuUXMhBuoew5fogHvvlrdZEMEYWjLJIhEVtQsx1g2lFHJskBb-ElPGn1cHZDqNMmM2vAvMw3JTcrAtQ"
+}
